@@ -1,4 +1,4 @@
-![Logo](https://media.discordapp.net/attachments/667388355830611979/1137871217869729872/banner.png)
+![Logo](https://enract.bloodalibi.com/assets/images/icon.png)
 
 # Welcome to Enract
 
